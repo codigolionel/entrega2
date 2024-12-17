@@ -1,0 +1,13 @@
+body{
+background-attachment: fixed;        
+background-image: url(./rickymorty.jpg);
+background-size: cover;
+height: 90vh;      
+}
+
+*{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  color: aqua;
+  font-style: normal; 
+  }

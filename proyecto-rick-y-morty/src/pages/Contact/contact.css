@@ -1,0 +1,60 @@
+.container-contact {
+  color: #223142;
+  background-color: rgb(50, 66, 84);
+  width: 1200px;
+  height: auto;
+  font-size: large;
+  margin-top: 4%;
+}
+
+.text-1 {
+  margin-top: 4%;
+}
+
+.text-2 {
+  margin-top: 5%;
+}
+
+.div-1 {
+  color: #223142;
+  width: 30vw;
+  margin-top: -5%;
+}
+
+.div-2 {
+  width: 30vw;
+  margin-left: 2%;
+  margin-top: -5%;
+}
+
+.div-3 {
+  width: 62vw;
+  margin-left: 13%;
+  margin-top: 2%;
+}
+
+.label-form {
+  color: black;
+  margin-bottom: 1%;
+}
+
+input:focus {
+  outline: none;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+textarea:focus {
+  outline: none;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.div-4 {
+  margin-left: 13%;
+  margin-top: 2%;
+}
+
+
+.btn-form {
+  background-color: #344d67;
+  color: white;
+}
